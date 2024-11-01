@@ -42,9 +42,9 @@ print("Utgifter drivstoff pr aer bensinbil:", DUB)
 print("Utgifter drivstoff pr aer elbil:", DUE)
 print("Forskjell drivstoffutgifter:", DUB - DUE)
 
-print("Utgifter bomavgift pr aer bensinbil:", BB*K)
-print("Utgifter bomavgift pr aer elbil:", BE*K)
-print("Forskjell utgifter bomavgift:", BB*K - BE*K)
+print("Utgifter bomavgift pr aer bensinbil:", BBK)
+print("Utgifter bomavgift pr aer elbil:", BEK)
+print("Forskjell utgifter bomavgift:", BBK - BEK)
 
 print("Utgift forsikring bensinbil:", FB)
 print("Utgift forsikring elbil:", FE)
