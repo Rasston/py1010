@@ -1,5 +1,5 @@
 """
-Prosjektoppgave PY1010
+Prosjektoppgave PY1010 - forhåndsdefinert oppgave
 Sander Ryen Sundt
 sandersundt@outlook.com
 @author: Sander
